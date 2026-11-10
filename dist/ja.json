@@ -1,0 +1,354 @@
+{
+  "slug": "awesome-whatsapp-api",
+  "language": "ja",
+  "title": "Awesome WhatsApp API",
+  "description": "WhatsApp連携を行う方向け: Metaの公式API、プロバイダー、非公式ライブラリ、それぞれの経路のリスク。",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "oficial",
+      "title": "Meta公式",
+      "items": [
+        {
+          "name": "WhatsApp Business Platform",
+          "url": "https://developers.facebook.com/docs/whatsapp/cloud-api",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-business-platform",
+          "description": "Cloud APIのドキュメント: 送信、受信、メッセージテンプレート、webhook。",
+          "tags": [
+            "oficial",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Preços da plataforma",
+          "url": "https://developers.facebook.com/docs/whatsapp/pricing",
+          "link": "https://go.mymarketing.click/wapi-precos-da-plataforma",
+          "description": "Metaがメッセージと会話カテゴリーごとに料金を請求する仕組み。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Política do WhatsApp Business",
+          "url": "https://business.whatsapp.com/policy",
+          "link": "https://go.mymarketing.click/wapi-politica-do-whatsapp-business",
+          "description": "WhatsAppで企業が許可されていること、禁止されていること。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos do WhatsApp Business",
+          "url": "https://www.whatsapp.com/legal/business-terms",
+          "link": "https://go.mymarketing.click/wapi-termos-do-whatsapp-business",
+          "description": "ビジネスアカウント向けの利用規約。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp Business",
+          "url": "https://business.whatsapp.com/",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-business",
+          "description": "企業向けWhatsAppのサイト。アプリとプラットフォームを含む。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "oficial-libs",
+      "title": "公式APIのライブラリ",
+      "items": [
+        {
+          "name": "whatsapp-api-js",
+          "url": "https://github.com/Secreto31126/whatsapp-api-js",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-api-js",
+          "description": "Cloud API向けの軽量で依存関係のないTypeScriptライブラリ。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "whatsapp-cloud-api",
+          "url": "https://github.com/netflie/whatsapp-cloud-api",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-cloud-api",
+          "description": "PHPでCloud APIを使った送受信。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "bsp",
+      "title": "公式APIのプロバイダー",
+      "items": [
+        {
+          "name": "360dialog",
+          "url": "https://docs.360dialog.com/",
+          "link": "https://go.mymarketing.click/wapi-360dialog",
+          "description": "番号ごとに課金される公式APIへの直接アクセス。",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Blip",
+          "url": "https://www.blip.ai/",
+          "link": "https://go.mymarketing.click/wapi-blip",
+          "description": "WhatsApp上のカスタマーサポートとチャットボットのためのブラジル製プラットフォーム。",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gupshup",
+          "url": "https://docs.gupshup.io/",
+          "link": "https://go.mymarketing.click/wapi-gupshup",
+          "description": "WhatsAppとチャットボットのためのメッセージAPI。",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Infobip",
+          "url": "https://www.infobip.com/docs/whatsapp",
+          "link": "https://go.mymarketing.click/wapi-infobip",
+          "description": "WhatsAppに対応したomnichannel API。",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Twilio",
+          "url": "https://www.twilio.com/docs/whatsapp",
+          "link": "https://go.mymarketing.click/wapi-twilio",
+          "description": "TwilioのAPIを通じたWhatsApp。SMSと音声も含む。",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Zenvia",
+          "url": "https://www.zenvia.com/",
+          "link": "https://go.mymarketing.click/wapi-zenvia",
+          "description": "WhatsApp、SMS、メールに対応したブラジル製のコミュニケーションプラットフォーム。",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "nao-oficial",
+      "title": "非公式ライブラリ",
+      "items": [
+        {
+          "name": "Baileys",
+          "url": "https://github.com/WhiskeySockets/Baileys",
+          "link": "https://go.mymarketing.click/wapi-baileys",
+          "description": "ブラウザを使わず、socket経由でWhatsApp Webのプロトコルを扱うTypeScript API。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "whatsapp-web.js",
+          "url": "https://github.com/wwebjs/whatsapp-web.js",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-web-js",
+          "description": "制御されたブラウザでWhatsApp Webに接続するNode.jsクライアント。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "whatsmeow",
+          "url": "https://github.com/tulir/whatsmeow",
+          "link": "https://go.mymarketing.click/wapi-whatsmeow",
+          "description": "WhatsApp WebのマルチデバイスAPI向けのGoライブラリ。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WPPConnect",
+          "url": "https://github.com/wppconnect-team/wppconnect",
+          "link": "https://go.mymarketing.click/wapi-wppconnect",
+          "description": "ブラジルのチームによる、Node.jsとTypeScriptで書かれたWhatsApp Webの自動化。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Venom",
+          "url": "https://github.com/vynect/venom",
+          "link": "https://go.mymarketing.click/wapi-venom",
+          "description": "WhatsApp Web向けのボットを作るJavaScriptのシステム。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "wacli",
+          "url": "https://github.com/openclaw/wacli",
+          "link": "https://go.mymarketing.click/wapi-wacli",
+          "description": "メッセージの同期、検索、送信を行うコマンドラインツール。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "servidores",
+      "title": "すぐ使えるRESTサーバー",
+      "items": [
+        {
+          "name": "Evolution API",
+          "url": "https://github.com/evolution-foundation/evolution-api",
+          "link": "https://go.mymarketing.click/wapi-evolution-api",
+          "description": "オープンソースでブラジル製のWhatsApp連携API。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WAHA",
+          "url": "https://github.com/devlikeapro/waha",
+          "link": "https://go.mymarketing.click/wapi-waha",
+          "description": "複数のエンジンと複数セッションに対応したWhatsApp HTTP API。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WPPConnect Server",
+          "url": "https://github.com/wppconnect-team/wppconnect-server",
+          "link": "https://go.mymarketing.click/wapi-wppconnect-server",
+          "description": "WPPConnect上に構築したセルフホスト型REST API。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "atendimento",
+      "title": "カスタマーサポート",
+      "items": [
+        {
+          "name": "Chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "link": "https://go.mymarketing.click/wapi-chatwoot",
+          "description": "WhatsApp、メール、サイト上のチャットに対応したオープンソースのカスタマーサポート窓口。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ferramentas",
+      "title": "無料のツール",
+      "items": [
+        {
+          "name": "Gerador de link de WhatsApp",
+          "url": "https://mycustomers.click/tools/whatsapp-link",
+          "link": "https://go.mymarketing.click/wapi-gerador-de-link-de-whatsapp",
+          "description": "メッセージが入力済みのwa.meリンクと、印刷用のQRコード。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "QR Code do WhatsApp",
+          "url": "https://mycustomers.click/tools/whatsapp-qr-code",
+          "link": "https://go.mymarketing.click/wapi-qr-code-do-whatsapp",
+          "description": "メッセージが入力済みの状態で会話を開くQRコード。PNGまたはSVG形式。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Nome, descrição e regras para grupo",
+          "url": "https://myoperations.click/tools/community-rules",
+          "link": "https://go.mymarketing.click/wapi-nome-descricao-e-regras-para-grupo",
+          "description": "グループに貼り付けられる、名前のアイデア、説明文、ルール。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

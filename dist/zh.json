@@ -1,0 +1,354 @@
+{
+  "slug": "awesome-whatsapp-api",
+  "language": "zh",
+  "title": "Awesome WhatsApp API",
+  "description": "WhatsApp 集成指南：官方 Meta API、服务提供商、非官方库及各条路径的风险。",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "oficial",
+      "title": "Meta 官方",
+      "items": [
+        {
+          "name": "WhatsApp Business Platform",
+          "url": "https://developers.facebook.com/docs/whatsapp/cloud-api",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-business-platform",
+          "description": "Cloud API 文档：发送、接收、消息模板和 webhooks。",
+          "tags": [
+            "oficial",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Preços da plataforma",
+          "url": "https://developers.facebook.com/docs/whatsapp/pricing",
+          "link": "https://go.mymarketing.click/wapi-precos-da-plataforma",
+          "description": "Meta 如何按消息和对话类别收费。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Política do WhatsApp Business",
+          "url": "https://business.whatsapp.com/policy",
+          "link": "https://go.mymarketing.click/wapi-politica-do-whatsapp-business",
+          "description": "企业在 WhatsApp 上允许和禁止的行为。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos do WhatsApp Business",
+          "url": "https://www.whatsapp.com/legal/business-terms",
+          "link": "https://go.mymarketing.click/wapi-termos-do-whatsapp-business",
+          "description": "商业账户的服务条款。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp Business",
+          "url": "https://business.whatsapp.com/",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-business",
+          "description": "WhatsApp 企业版网站，包括应用和平台。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "oficial-libs",
+      "title": "官方 API 的库",
+      "items": [
+        {
+          "name": "whatsapp-api-js",
+          "url": "https://github.com/Secreto31126/whatsapp-api-js",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-api-js",
+          "description": "轻量、无依赖的 TypeScript Cloud API 库。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "whatsapp-cloud-api",
+          "url": "https://github.com/netflie/whatsapp-cloud-api",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-cloud-api",
+          "description": "使用 PHP 通过 Cloud API 收发消息。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "bsp",
+      "title": "官方 API 的服务商",
+      "items": [
+        {
+          "name": "360dialog",
+          "url": "https://docs.360dialog.com/",
+          "link": "https://go.mymarketing.click/wapi-360dialog",
+          "description": "直接访问官方 API，按号码收费。",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Blip",
+          "url": "https://www.blip.ai/",
+          "link": "https://go.mymarketing.click/wapi-blip",
+          "description": "巴西的 WhatsApp 客服和聊天机器人平台。",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gupshup",
+          "url": "https://docs.gupshup.io/",
+          "link": "https://go.mymarketing.click/wapi-gupshup",
+          "description": "基于 WhatsApp 的消息 API 和聊天机器人。",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Infobip",
+          "url": "https://www.infobip.com/docs/whatsapp",
+          "link": "https://go.mymarketing.click/wapi-infobip",
+          "description": "WhatsApp 全渠道 API。",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Twilio",
+          "url": "https://www.twilio.com/docs/whatsapp",
+          "link": "https://go.mymarketing.click/wapi-twilio",
+          "description": "通过 Twilio API 使用 WhatsApp，同时支持短信和语音。",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Zenvia",
+          "url": "https://www.zenvia.com/",
+          "link": "https://go.mymarketing.click/wapi-zenvia",
+          "description": "巴西的 WhatsApp、短信和电子邮件通信平台。",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "nao-oficial",
+      "title": "非官方的库",
+      "items": [
+        {
+          "name": "Baileys",
+          "url": "https://github.com/WhiskeySockets/Baileys",
+          "link": "https://go.mymarketing.click/wapi-baileys",
+          "description": "TypeScript API，通过 socket 使用 WhatsApp Web 协议，无需浏览器。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "whatsapp-web.js",
+          "url": "https://github.com/wwebjs/whatsapp-web.js",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-web-js",
+          "description": "Node.js 客户端，通过受控浏览器连接 WhatsApp Web。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "whatsmeow",
+          "url": "https://github.com/tulir/whatsmeow",
+          "link": "https://go.mymarketing.click/wapi-whatsmeow",
+          "description": "用于 WhatsApp Web 多设备 API 的 Go 库。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WPPConnect",
+          "url": "https://github.com/wppconnect-team/wppconnect",
+          "link": "https://go.mymarketing.click/wapi-wppconnect",
+          "description": "由一支巴西团队开发的 Node.js 和 TypeScript WhatsApp Web 自动化工具。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Venom",
+          "url": "https://github.com/vynect/venom",
+          "link": "https://go.mymarketing.click/wapi-venom",
+          "description": "用 JavaScript 编写、用于创建 WhatsApp Web 机器人的系统。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "wacli",
+          "url": "https://github.com/openclaw/wacli",
+          "link": "https://go.mymarketing.click/wapi-wacli",
+          "description": "用于同步、搜索和发送消息的命令行工具。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "servidores",
+      "title": "开箱即用的 REST 服务器",
+      "items": [
+        {
+          "name": "Evolution API",
+          "url": "https://github.com/evolution-foundation/evolution-api",
+          "link": "https://go.mymarketing.click/wapi-evolution-api",
+          "description": "开源且在巴西开发的 WhatsApp 集成 API。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WAHA",
+          "url": "https://github.com/devlikeapro/waha",
+          "link": "https://go.mymarketing.click/wapi-waha",
+          "description": "WhatsApp HTTP API，支持多种引擎和多个会话。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WPPConnect Server",
+          "url": "https://github.com/wppconnect-team/wppconnect-server",
+          "link": "https://go.mymarketing.click/wapi-wppconnect-server",
+          "description": "基于 WPPConnect 的自托管 REST API。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "atendimento",
+      "title": "客服",
+      "items": [
+        {
+          "name": "Chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "link": "https://go.mymarketing.click/wapi-chatwoot",
+          "description": "开源客服中心，支持 WhatsApp、电子邮件和网站在线聊天。",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ferramentas",
+      "title": "免费工具",
+      "items": [
+        {
+          "name": "Gerador de link de WhatsApp",
+          "url": "https://mycustomers.click/tools/whatsapp-link",
+          "link": "https://go.mymarketing.click/wapi-gerador-de-link-de-whatsapp",
+          "description": "带有预填消息的 wa.me 链接和可打印的 QR code。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "QR Code do WhatsApp",
+          "url": "https://mycustomers.click/tools/whatsapp-qr-code",
+          "link": "https://go.mymarketing.click/wapi-qr-code-do-whatsapp",
+          "description": "生成 QR code，扫码即可打开你的对话并带上预先写好的消息，支持 PNG 或 SVG 格式。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Nome, descrição e regras para grupo",
+          "url": "https://myoperations.click/tools/community-rules",
+          "link": "https://go.mymarketing.click/wapi-nome-descricao-e-regras-para-grupo",
+          "description": "群名创意、群简介和可直接粘贴到群里的群规。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

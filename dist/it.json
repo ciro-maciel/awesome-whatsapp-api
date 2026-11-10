@@ -1,0 +1,354 @@
+{
+  "slug": "awesome-whatsapp-api",
+  "language": "it",
+  "title": "Awesome WhatsApp API",
+  "description": "WhatsApp per chi integra: l'API ufficiale di Meta, i provider, le librerie non ufficiali e il rischio di ogni strada.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "oficial",
+      "title": "Ufficiale di Meta",
+      "items": [
+        {
+          "name": "WhatsApp Business Platform",
+          "url": "https://developers.facebook.com/docs/whatsapp/cloud-api",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-business-platform",
+          "description": "La documentazione della Cloud API: invio, ricezione, modelli di messaggio e webhook.",
+          "tags": [
+            "oficial",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Preços da plataforma",
+          "url": "https://developers.facebook.com/docs/whatsapp/pricing",
+          "link": "https://go.mymarketing.click/wapi-precos-da-plataforma",
+          "description": "Come Meta addebita i messaggi e per categoria di conversazione.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Política do WhatsApp Business",
+          "url": "https://business.whatsapp.com/policy",
+          "link": "https://go.mymarketing.click/wapi-politica-do-whatsapp-business",
+          "description": "Ciò che è consentito e vietato alle aziende su WhatsApp.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos do WhatsApp Business",
+          "url": "https://www.whatsapp.com/legal/business-terms",
+          "link": "https://go.mymarketing.click/wapi-termos-do-whatsapp-business",
+          "description": "I termini di servizio per gli account business.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp Business",
+          "url": "https://business.whatsapp.com/",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-business",
+          "description": "Il sito di WhatsApp per le aziende, con app e piattaforma.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "oficial-libs",
+      "title": "Librerie per l'API ufficiale",
+      "items": [
+        {
+          "name": "whatsapp-api-js",
+          "url": "https://github.com/Secreto31126/whatsapp-api-js",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-api-js",
+          "description": "Libreria TypeScript leggera e senza dipendenze per la Cloud API.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "whatsapp-cloud-api",
+          "url": "https://github.com/netflie/whatsapp-cloud-api",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-cloud-api",
+          "description": "Invio e ricezione tramite Cloud API in PHP.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "bsp",
+      "title": "Provider dell'API ufficiale",
+      "items": [
+        {
+          "name": "360dialog",
+          "url": "https://docs.360dialog.com/",
+          "link": "https://go.mymarketing.click/wapi-360dialog",
+          "description": "Accesso diretto all'API ufficiale, con addebito per numero.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Blip",
+          "url": "https://www.blip.ai/",
+          "link": "https://go.mymarketing.click/wapi-blip",
+          "description": "Piattaforma brasiliana per assistenza clienti e chatbot su WhatsApp.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gupshup",
+          "url": "https://docs.gupshup.io/",
+          "link": "https://go.mymarketing.click/wapi-gupshup",
+          "description": "API di messaggistica con WhatsApp e chatbot.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Infobip",
+          "url": "https://www.infobip.com/docs/whatsapp",
+          "link": "https://go.mymarketing.click/wapi-infobip",
+          "description": "API omnichannel con WhatsApp.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Twilio",
+          "url": "https://www.twilio.com/docs/whatsapp",
+          "link": "https://go.mymarketing.click/wapi-twilio",
+          "description": "WhatsApp tramite l'API di Twilio, insieme a SMS e voce.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Zenvia",
+          "url": "https://www.zenvia.com/",
+          "link": "https://go.mymarketing.click/wapi-zenvia",
+          "description": "Piattaforma brasiliana di comunicazione con WhatsApp, SMS ed e-mail.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "nao-oficial",
+      "title": "Librerie non ufficiali",
+      "items": [
+        {
+          "name": "Baileys",
+          "url": "https://github.com/WhiskeySockets/Baileys",
+          "link": "https://go.mymarketing.click/wapi-baileys",
+          "description": "API in TypeScript che parla il protocollo di WhatsApp Web tramite socket, senza browser.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "whatsapp-web.js",
+          "url": "https://github.com/wwebjs/whatsapp-web.js",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-web-js",
+          "description": "Client Node.js che si connette a WhatsApp Web in un browser controllato.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "whatsmeow",
+          "url": "https://github.com/tulir/whatsmeow",
+          "link": "https://go.mymarketing.click/wapi-whatsmeow",
+          "description": "Libreria Go per la API multi-dispositivo di WhatsApp Web.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WPPConnect",
+          "url": "https://github.com/wppconnect-team/wppconnect",
+          "link": "https://go.mymarketing.click/wapi-wppconnect",
+          "description": "Automazione di WhatsApp Web in Node.js e TypeScript, da un team brasiliano.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Venom",
+          "url": "https://github.com/vynect/venom",
+          "link": "https://go.mymarketing.click/wapi-venom",
+          "description": "Sistema in JavaScript per creare bot su WhatsApp Web.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "wacli",
+          "url": "https://github.com/openclaw/wacli",
+          "link": "https://go.mymarketing.click/wapi-wacli",
+          "description": "Riga di comando per sincronizzare, cercare e inviare messaggi.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "servidores",
+      "title": "Server REST pronti all'uso",
+      "items": [
+        {
+          "name": "Evolution API",
+          "url": "https://github.com/evolution-foundation/evolution-api",
+          "link": "https://go.mymarketing.click/wapi-evolution-api",
+          "description": "API di integrazione con WhatsApp, open source e fatta in Brasile.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WAHA",
+          "url": "https://github.com/devlikeapro/waha",
+          "link": "https://go.mymarketing.click/wapi-waha",
+          "description": "WhatsApp HTTP API con più motori e più sessioni.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WPPConnect Server",
+          "url": "https://github.com/wppconnect-team/wppconnect-server",
+          "link": "https://go.mymarketing.click/wapi-wppconnect-server",
+          "description": "API REST self-hosted basata su WPPConnect.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "atendimento",
+      "title": "Assistenza clienti",
+      "items": [
+        {
+          "name": "Chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "link": "https://go.mymarketing.click/wapi-chatwoot",
+          "description": "Help desk open source, con WhatsApp, e-mail e chat sul sito.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ferramentas",
+      "title": "Strumenti gratuiti",
+      "items": [
+        {
+          "name": "Gerador de link de WhatsApp",
+          "url": "https://mycustomers.click/tools/whatsapp-link",
+          "link": "https://go.mymarketing.click/wapi-gerador-de-link-de-whatsapp",
+          "description": "Il link wa.me con il messaggio già scritto e il QR code da stampare.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "QR Code do WhatsApp",
+          "url": "https://mycustomers.click/tools/whatsapp-qr-code",
+          "link": "https://go.mymarketing.click/wapi-qr-code-do-whatsapp",
+          "description": "Il QR code che apre la tua chat con il messaggio pronto, in PNG o SVG.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Nome, descrição e regras para grupo",
+          "url": "https://myoperations.click/tools/community-rules",
+          "link": "https://go.mymarketing.click/wapi-nome-descricao-e-regras-para-grupo",
+          "description": "Idee per il nome, la descrizione e le regole pronte da incollare in un gruppo.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

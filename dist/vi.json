@@ -1,0 +1,354 @@
+{
+  "slug": "awesome-whatsapp-api",
+  "language": "vi",
+  "title": "Awesome WhatsApp API",
+  "description": "WhatsApp cho người tích hợp: API chính thức của Meta, các nhà cung cấp, thư viện không chính thức và rủi ro của từng hướng.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "oficial",
+      "title": "Chính thức của Meta",
+      "items": [
+        {
+          "name": "WhatsApp Business Platform",
+          "url": "https://developers.facebook.com/docs/whatsapp/cloud-api",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-business-platform",
+          "description": "Tài liệu Cloud API: gửi, nhận, mẫu tin nhắn và webhook.",
+          "tags": [
+            "oficial",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Preços da plataforma",
+          "url": "https://developers.facebook.com/docs/whatsapp/pricing",
+          "link": "https://go.mymarketing.click/wapi-precos-da-plataforma",
+          "description": "Cách Meta tính phí theo tin nhắn và theo loại hội thoại.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Política do WhatsApp Business",
+          "url": "https://business.whatsapp.com/policy",
+          "link": "https://go.mymarketing.click/wapi-politica-do-whatsapp-business",
+          "description": "Điều được phép và không được phép với doanh nghiệp trên WhatsApp.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos do WhatsApp Business",
+          "url": "https://www.whatsapp.com/legal/business-terms",
+          "link": "https://go.mymarketing.click/wapi-termos-do-whatsapp-business",
+          "description": "Điều khoản dịch vụ cho tài khoản doanh nghiệp.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp Business",
+          "url": "https://business.whatsapp.com/",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-business",
+          "description": "Trang WhatsApp dành cho doanh nghiệp, gồm ứng dụng và nền tảng.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "oficial-libs",
+      "title": "Thư viện cho API chính thức",
+      "items": [
+        {
+          "name": "whatsapp-api-js",
+          "url": "https://github.com/Secreto31126/whatsapp-api-js",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-api-js",
+          "description": "Thư viện TypeScript nhẹ, không phụ thuộc, cho Cloud API.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "whatsapp-cloud-api",
+          "url": "https://github.com/netflie/whatsapp-cloud-api",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-cloud-api",
+          "description": "Gửi và nhận qua Cloud API bằng PHP.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "bsp",
+      "title": "Nhà cung cấp API chính thức",
+      "items": [
+        {
+          "name": "360dialog",
+          "url": "https://docs.360dialog.com/",
+          "link": "https://go.mymarketing.click/wapi-360dialog",
+          "description": "Truy cập trực tiếp API chính thức, tính phí theo số điện thoại.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Blip",
+          "url": "https://www.blip.ai/",
+          "link": "https://go.mymarketing.click/wapi-blip",
+          "description": "Nền tảng chăm sóc khách hàng và chatbot trên WhatsApp của Brazil.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gupshup",
+          "url": "https://docs.gupshup.io/",
+          "link": "https://go.mymarketing.click/wapi-gupshup",
+          "description": "API gửi tin nhắn qua WhatsApp và chatbot.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Infobip",
+          "url": "https://www.infobip.com/docs/whatsapp",
+          "link": "https://go.mymarketing.click/wapi-infobip",
+          "description": "API omnichannel với WhatsApp.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Twilio",
+          "url": "https://www.twilio.com/docs/whatsapp",
+          "link": "https://go.mymarketing.click/wapi-twilio",
+          "description": "WhatsApp qua API của Twilio, cùng với SMS và thoại.",
+          "tags": [
+            "api",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Zenvia",
+          "url": "https://www.zenvia.com/",
+          "link": "https://go.mymarketing.click/wapi-zenvia",
+          "description": "Nền tảng giao tiếp của Brazil với WhatsApp, SMS và e-mail.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "nao-oficial",
+      "title": "Thư viện không chính thức",
+      "items": [
+        {
+          "name": "Baileys",
+          "url": "https://github.com/WhiskeySockets/Baileys",
+          "link": "https://go.mymarketing.click/wapi-baileys",
+          "description": "API TypeScript nói giao thức WhatsApp Web qua socket, không cần trình duyệt.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "whatsapp-web.js",
+          "url": "https://github.com/wwebjs/whatsapp-web.js",
+          "link": "https://go.mymarketing.click/wapi-whatsapp-web-js",
+          "description": "Client Node.js kết nối WhatsApp Web qua trình duyệt được điều khiển.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "whatsmeow",
+          "url": "https://github.com/tulir/whatsmeow",
+          "link": "https://go.mymarketing.click/wapi-whatsmeow",
+          "description": "Thư viện Go cho API đa thiết bị của WhatsApp Web.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WPPConnect",
+          "url": "https://github.com/wppconnect-team/wppconnect",
+          "link": "https://go.mymarketing.click/wapi-wppconnect",
+          "description": "Tự động hóa WhatsApp Web bằng Node.js và TypeScript, từ một nhóm ở Brazil.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Venom",
+          "url": "https://github.com/vynect/venom",
+          "link": "https://go.mymarketing.click/wapi-venom",
+          "description": "Hệ thống JavaScript để tạo bot trên WhatsApp Web.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "wacli",
+          "url": "https://github.com/openclaw/wacli",
+          "link": "https://go.mymarketing.click/wapi-wacli",
+          "description": "Công cụ dòng lệnh để đồng bộ, tìm kiếm và gửi tin nhắn.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "servidores",
+      "title": "Máy chủ REST có sẵn",
+      "items": [
+        {
+          "name": "Evolution API",
+          "url": "https://github.com/evolution-foundation/evolution-api",
+          "link": "https://go.mymarketing.click/wapi-evolution-api",
+          "description": "API tích hợp WhatsApp, mã nguồn mở và làm tại Brazil.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WAHA",
+          "url": "https://github.com/devlikeapro/waha",
+          "link": "https://go.mymarketing.click/wapi-waha",
+          "description": "WhatsApp HTTP API với nhiều engine và nhiều phiên.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WPPConnect Server",
+          "url": "https://github.com/wppconnect-team/wppconnect-server",
+          "link": "https://go.mymarketing.click/wapi-wppconnect-server",
+          "description": "API REST tự host trên WPPConnect.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "atendimento",
+      "title": "Chăm sóc khách hàng",
+      "items": [
+        {
+          "name": "Chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "link": "https://go.mymarketing.click/wapi-chatwoot",
+          "description": "Trung tâm hỗ trợ khách hàng mã nguồn mở, có WhatsApp, e-mail và chat trên website.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ferramentas",
+      "title": "Công cụ miễn phí",
+      "items": [
+        {
+          "name": "Gerador de link de WhatsApp",
+          "url": "https://mycustomers.click/tools/whatsapp-link",
+          "link": "https://go.mymarketing.click/wapi-gerador-de-link-de-whatsapp",
+          "description": "Liên kết wa.me với sẵn tin nhắn và mã QR để in.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "QR Code do WhatsApp",
+          "url": "https://mycustomers.click/tools/whatsapp-qr-code",
+          "link": "https://go.mymarketing.click/wapi-qr-code-do-whatsapp",
+          "description": "Mã QR mở thẳng cuộc trò chuyện của bạn với tin nhắn đã soạn sẵn, định dạng PNG hoặc SVG.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Nome, descrição e regras para grupo",
+          "url": "https://myoperations.click/tools/community-rules",
+          "link": "https://go.mymarketing.click/wapi-nome-descricao-e-regras-para-grupo",
+          "description": "Gợi ý tên nhóm, mô tả và nội quy sẵn để dán vào nhóm.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
