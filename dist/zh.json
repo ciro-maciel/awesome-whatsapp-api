@@ -239,9 +239,9 @@
         },
         {
           "name": "wacli",
-          "url": "https://github.com/openclaw/wacli",
-          "link": "https://go.mymarketing.click/wapi-wacli",
-          "description": "用于同步、搜索和发送消息的命令行工具。",
+          "url": "https://wacli.sh/",
+          "link": "https://go.mymarketing.click/wapi-wacli-2",
+          "description": "一个用 Go 编写的命令行工具，以 WhatsApp Web 设备的身份连接，将聊天记录保存在本地 SQLite 中并支持搜索，可发送消息、媒体和群组内容，适用于终端、脚本和 AI 代理。",
           "tags": [
             "codigo-aberto",
             "gratis"

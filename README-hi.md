@@ -60,7 +60,7 @@ Meta के partners जो API बेचते और चलाते हैं
 - [whatsmeow](https://go.mymarketing.click/wapi-whatsmeow) - WhatsApp Web की multi-device API के लिए Go लाइब्रेरी। `ओपन सोर्स` `मुफ़्त`
 - [WPPConnect](https://go.mymarketing.click/wapi-wppconnect) - Node.js और TypeScript में WhatsApp Web का ऑटोमेशन, एक ब्राज़ीली टीम का। `ओपन सोर्स` `मुफ़्त`
 - [Venom](https://go.mymarketing.click/wapi-venom) - WhatsApp Web पर bots बनाने के लिए JavaScript सिस्टम। `ओपन सोर्स` `मुफ़्त`
-- [wacli](https://go.mymarketing.click/wapi-wacli) - मैसेज सिंक करने, खोजने और भेजने के लिए कमांड लाइन टूल। `ओपन सोर्स` `मुफ़्त`
+- [wacli](https://go.mymarketing.click/wapi-wacli-2) - WhatsApp Web का एक डिवाइस बनकर जुड़ने वाला Go में लिखा कमांड-लाइन टूल, जो बातचीत का इतिहास लोकल SQLite में सेव करता है, उसमें खोज की सुविधा देता है, और मैसेज, मीडिया व ग्रुप भेजता है। यह टर्मिनल, स्क्रिप्ट और AI एजेंट के लिए है। `ओपन सोर्स` `मुफ़्त`
 
 ## तैयार REST सर्वर
 

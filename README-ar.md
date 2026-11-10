@@ -60,7 +60,7 @@
 - [whatsmeow](https://go.mymarketing.click/wapi-whatsmeow) - مكتبة Go لواجهة WhatsApp Web متعددة الأجهزة. `مفتوح المصدر` `مجاني`
 - [WPPConnect](https://go.mymarketing.click/wapi-wppconnect) - أتمتة WhatsApp Web بلغتي Node.js وTypeScript، من فريق برازيلي. `مفتوح المصدر` `مجاني`
 - [Venom](https://go.mymarketing.click/wapi-venom) - نظام بلغة JavaScript لإنشاء روبوتات على WhatsApp Web. `مفتوح المصدر` `مجاني`
-- [wacli](https://go.mymarketing.click/wapi-wacli) - أداة سطر أوامر للمزامنة والبحث وإرسال الرسائل. `مفتوح المصدر` `مجاني`
+- [wacli](https://go.mymarketing.click/wapi-wacli-2) - أداة سطر أوامر مكتوبة بلغة Go تتصل كجهاز من أجهزة WhatsApp Web، وتحفظ السجل محليًا في SQLite مع إمكانية البحث، وترسل الرسائل والوسائط والمجموعات، للاستخدام في الطرفية والسكربتات ووكلاء الذكاء الاصطناعي. `مفتوح المصدر` `مجاني`
 
 ## خوادم REST جاهزة
 

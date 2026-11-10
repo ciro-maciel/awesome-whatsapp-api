@@ -239,9 +239,9 @@
         },
         {
           "name": "wacli",
-          "url": "https://github.com/openclaw/wacli",
-          "link": "https://go.mymarketing.click/wapi-wacli",
-          "description": "أداة سطر أوامر للمزامنة والبحث وإرسال الرسائل.",
+          "url": "https://wacli.sh/",
+          "link": "https://go.mymarketing.click/wapi-wacli-2",
+          "description": "أداة سطر أوامر مكتوبة بلغة Go تتصل كجهاز من أجهزة WhatsApp Web، وتحفظ السجل محليًا في SQLite مع إمكانية البحث، وترسل الرسائل والوسائط والمجموعات، للاستخدام في الطرفية والسكربتات ووكلاء الذكاء الاصطناعي.",
           "tags": [
             "codigo-aberto",
             "gratis"

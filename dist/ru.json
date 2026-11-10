@@ -239,9 +239,9 @@
         },
         {
           "name": "wacli",
-          "url": "https://github.com/openclaw/wacli",
-          "link": "https://go.mymarketing.click/wapi-wacli",
-          "description": "Командная строка для синхронизации, поиска и отправки сообщений.",
+          "url": "https://wacli.sh/",
+          "link": "https://go.mymarketing.click/wapi-wacli-2",
+          "description": "Инструмент командной строки на Go, который подключается как устройство WhatsApp Web, хранит историю в локальной SQLite с поиском и отправляет сообщения, медиа и группы из терминала, скриптов и ИИ-агентов.",
           "tags": [
             "codigo-aberto",
             "gratis"

@@ -239,9 +239,9 @@
         },
         {
           "name": "wacli",
-          "url": "https://github.com/openclaw/wacli",
-          "link": "https://go.mymarketing.click/wapi-wacli",
-          "description": "Linha de comando para sincronizar, buscar e enviar mensagens.",
+          "url": "https://wacli.sh/",
+          "link": "https://go.mymarketing.click/wapi-wacli-2",
+          "description": "Linha de comando em Go que se conecta como um aparelho do WhatsApp Web, guarda o histórico num SQLite local com busca e envia mensagens, mídia e grupos, para terminal, scripts e agentes de IA.",
           "tags": [
             "codigo-aberto",
             "gratis"

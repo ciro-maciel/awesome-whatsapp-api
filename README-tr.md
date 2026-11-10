@@ -60,7 +60,7 @@ WhatsApp Web gibi bağlanırlar. Meta bu kullanımı şirketlere izin vermez ve 
 - [whatsmeow](https://go.mymarketing.click/wapi-whatsmeow) - WhatsApp Web çoklu cihaz API'si için Go kütüphanesi. `açık kaynak` `ücretsiz`
 - [WPPConnect](https://go.mymarketing.click/wapi-wppconnect) - Brezilyalı bir ekipten, Node.js ve TypeScript ile WhatsApp Web otomasyonu. `açık kaynak` `ücretsiz`
 - [Venom](https://go.mymarketing.click/wapi-venom) - WhatsApp Web için bot oluşturmaya yarayan JavaScript sistemi. `açık kaynak` `ücretsiz`
-- [wacli](https://go.mymarketing.click/wapi-wacli) - Mesajları senkronize etmek, aramak ve göndermek için komut satırı aracı. `açık kaynak` `ücretsiz`
+- [wacli](https://go.mymarketing.click/wapi-wacli-2) - WhatsApp Web'e bağlı bir cihaz gibi bağlanan, geçmişi yerel bir SQLite veritabanında arama özelliğiyle saklayan ve mesaj, medya ile grup gönderen, terminal, betikler ve yapay zeka ajanları için Go ile yazılmış bir komut satırı aracı. `açık kaynak` `ücretsiz`
 
 ## Hazır REST sunucuları
 

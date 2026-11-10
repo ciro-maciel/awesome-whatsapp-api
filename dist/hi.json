@@ -239,9 +239,9 @@
         },
         {
           "name": "wacli",
-          "url": "https://github.com/openclaw/wacli",
-          "link": "https://go.mymarketing.click/wapi-wacli",
-          "description": "मैसेज सिंक करने, खोजने और भेजने के लिए कमांड लाइन टूल।",
+          "url": "https://wacli.sh/",
+          "link": "https://go.mymarketing.click/wapi-wacli-2",
+          "description": "WhatsApp Web का एक डिवाइस बनकर जुड़ने वाला Go में लिखा कमांड-लाइन टूल, जो बातचीत का इतिहास लोकल SQLite में सेव करता है, उसमें खोज की सुविधा देता है, और मैसेज, मीडिया व ग्रुप भेजता है। यह टर्मिनल, स्क्रिप्ट और AI एजेंट के लिए है।",
           "tags": [
             "codigo-aberto",
             "gratis"

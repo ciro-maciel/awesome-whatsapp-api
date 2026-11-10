@@ -239,9 +239,9 @@
         },
         {
           "name": "wacli",
-          "url": "https://github.com/openclaw/wacli",
-          "link": "https://go.mymarketing.click/wapi-wacli",
-          "description": "Antarmuka baris perintah untuk sinkronisasi, pencarian, dan pengiriman pesan.",
+          "url": "https://wacli.sh/",
+          "link": "https://go.mymarketing.click/wapi-wacli-2",
+          "description": "Alat baris perintah berbasis Go yang terhubung sebagai perangkat WhatsApp Web, menyimpan riwayat di SQLite lokal dengan pencarian, serta mengirim pesan, media, dan grup, untuk terminal, skrip, dan agen AI.",
           "tags": [
             "codigo-aberto",
             "gratis"

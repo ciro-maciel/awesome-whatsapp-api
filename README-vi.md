@@ -60,7 +60,7 @@ Kết nối như thể là WhatsApp Web. Meta không cho phép doanh nghiệp d�
 - [whatsmeow](https://go.mymarketing.click/wapi-whatsmeow) - Thư viện Go cho API đa thiết bị của WhatsApp Web. `mã nguồn mở` `miễn phí`
 - [WPPConnect](https://go.mymarketing.click/wapi-wppconnect) - Tự động hóa WhatsApp Web bằng Node.js và TypeScript, từ một nhóm ở Brazil. `mã nguồn mở` `miễn phí`
 - [Venom](https://go.mymarketing.click/wapi-venom) - Hệ thống JavaScript để tạo bot trên WhatsApp Web. `mã nguồn mở` `miễn phí`
-- [wacli](https://go.mymarketing.click/wapi-wacli) - Công cụ dòng lệnh để đồng bộ, tìm kiếm và gửi tin nhắn. `mã nguồn mở` `miễn phí`
+- [wacli](https://go.mymarketing.click/wapi-wacli-2) - Công cụ dòng lệnh viết bằng Go, kết nối như một thiết bị WhatsApp Web, lưu lịch sử trò chuyện trong SQLite cục bộ có tìm kiếm, và gửi tin nhắn, phương tiện, nhóm, dùng cho terminal, script và tác nhân AI. `mã nguồn mở` `miễn phí`
 
 ## Máy chủ REST có sẵn
 

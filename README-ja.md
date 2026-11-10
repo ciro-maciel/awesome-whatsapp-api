@@ -60,7 +60,7 @@ WhatsApp Webとして接続します。Metaは企業でのこの利用を認め�
 - [whatsmeow](https://go.mymarketing.click/wapi-whatsmeow) - WhatsApp WebのマルチデバイスAPI向けのGoライブラリ。 `オープンソース` `無料`
 - [WPPConnect](https://go.mymarketing.click/wapi-wppconnect) - ブラジルのチームによる、Node.jsとTypeScriptで書かれたWhatsApp Webの自動化。 `オープンソース` `無料`
 - [Venom](https://go.mymarketing.click/wapi-venom) - WhatsApp Web向けのボットを作るJavaScriptのシステム。 `オープンソース` `無料`
-- [wacli](https://go.mymarketing.click/wapi-wacli) - メッセージの同期、検索、送信を行うコマンドラインツール。 `オープンソース` `無料`
+- [wacli](https://go.mymarketing.click/wapi-wacli-2) - WhatsApp Web のデバイスとして接続する Go 製のコマンドラインツールです。ローカルの SQLite にチャット履歴を保存して検索でき、メッセージ、メディア、グループの送信に対応しています。ターミナル、スクリプト、AI エージェントから利用できます。 `オープンソース` `無料`
 
 ## すぐ使えるRESTサーバー
 

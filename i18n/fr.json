@@ -42,6 +42,7 @@
   "84413e0e05a3b4c5": "Elles se connectent comme WhatsApp Web. Meta n'autorise pas cet usage pour les entreprises et le numéro peut être banni ; elles servent à un usage personnel, aux tests et à ses propres automatisations.",
   "84c94550d95f4246": "Open Finance et Open Insurance au Brésil : normes, spécifications, données ouvertes, agrégateurs et code ouvert.",
   "854af980ad7b8265": "un café",
+  "8b2271a657906bf5": "Outil en ligne de commande écrit en Go qui se connecte comme un appareil WhatsApp Web, stocke l'historique dans une base SQLite locale avec recherche, et envoie des messages, médias et messages de groupe, pour le terminal, les scripts et les agents IA.",
   "8d59f0538eddf530": "Officiel de Meta",
   "963d57bea0dd80bc": "Fournisseurs de l'API officielle",
   "97f6469ef6ba66f3": "Comment Meta facture par message et par catégorie de conversation.",

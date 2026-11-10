@@ -239,9 +239,9 @@
         },
         {
           "name": "wacli",
-          "url": "https://github.com/openclaw/wacli",
-          "link": "https://go.mymarketing.click/wapi-wacli",
-          "description": "Mesajları senkronize etmek, aramak ve göndermek için komut satırı aracı.",
+          "url": "https://wacli.sh/",
+          "link": "https://go.mymarketing.click/wapi-wacli-2",
+          "description": "WhatsApp Web'e bağlı bir cihaz gibi bağlanan, geçmişi yerel bir SQLite veritabanında arama özelliğiyle saklayan ve mesaj, medya ile grup gönderen, terminal, betikler ve yapay zeka ajanları için Go ile yazılmış bir komut satırı aracı.",
           "tags": [
             "codigo-aberto",
             "gratis"

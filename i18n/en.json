@@ -42,6 +42,7 @@
   "84413e0e05a3b4c5": "They connect as if they were WhatsApp Web. Meta does not authorize this use for businesses and the number can be banned; they are meant for personal use, testing and your own automations.",
   "84c94550d95f4246": "Open Finance and Open Insurance in Brazil: regulations, specifications, open data, aggregators and open source code.",
   "854af980ad7b8265": "a coffee",
+  "8b2271a657906bf5": "Command-line tool written in Go that connects as a WhatsApp Web device, stores message history in a local SQLite database with search, and sends messages, media and group messages, for terminals, scripts and AI agents.",
   "8d59f0538eddf530": "Official from Meta",
   "963d57bea0dd80bc": "Official API providers",
   "97f6469ef6ba66f3": "How Meta charges per message and per conversation category.",

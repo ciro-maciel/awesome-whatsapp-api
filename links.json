@@ -254,5 +254,9 @@
   "https://myoperations.click/tools/community-rules": {
     "id": "933e5d9b-2581-4116-81ae-afc01a86c227",
     "shortUrl": "https://go.mymarketing.click/wapi-nome-descricao-e-regras-para-grupo"
+  },
+  "https://wacli.sh/": {
+    "id": "9d0ff01b-d178-43b1-884d-ee500171612a",
+    "shortUrl": "https://go.mymarketing.click/wapi-wacli-2"
   }
 }

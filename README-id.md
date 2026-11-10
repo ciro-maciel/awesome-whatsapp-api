@@ -60,7 +60,7 @@ Terhubung seolah-olah sebagai WhatsApp Web. Meta tidak mengizinkan penggunaan in
 - [whatsmeow](https://go.mymarketing.click/wapi-whatsmeow) - Pustaka Go untuk API multi-perangkat WhatsApp Web. `open source` `gratis`
 - [WPPConnect](https://go.mymarketing.click/wapi-wppconnect) - Otomatisasi WhatsApp Web dengan Node.js dan TypeScript, dari tim Brasil. `open source` `gratis`
 - [Venom](https://go.mymarketing.click/wapi-venom) - Sistem JavaScript untuk membuat bot di WhatsApp Web. `open source` `gratis`
-- [wacli](https://go.mymarketing.click/wapi-wacli) - Antarmuka baris perintah untuk sinkronisasi, pencarian, dan pengiriman pesan. `open source` `gratis`
+- [wacli](https://go.mymarketing.click/wapi-wacli-2) - Alat baris perintah berbasis Go yang terhubung sebagai perangkat WhatsApp Web, menyimpan riwayat di SQLite lokal dengan pencarian, serta mengirim pesan, media, dan grup, untuk terminal, skrip, dan agen AI. `open source` `gratis`
 
 ## Server REST siap pakai
 

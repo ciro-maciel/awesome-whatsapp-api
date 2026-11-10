@@ -60,7 +60,7 @@ Si connettono come se fossero WhatsApp Web. Meta non autorizza questo uso per le
 - [whatsmeow](https://go.mymarketing.click/wapi-whatsmeow) - Libreria Go per la API multi-dispositivo di WhatsApp Web. `open source` `gratis`
 - [WPPConnect](https://go.mymarketing.click/wapi-wppconnect) - Automazione di WhatsApp Web in Node.js e TypeScript, da un team brasiliano. `open source` `gratis`
 - [Venom](https://go.mymarketing.click/wapi-venom) - Sistema in JavaScript per creare bot su WhatsApp Web. `open source` `gratis`
-- [wacli](https://go.mymarketing.click/wapi-wacli) - Riga di comando per sincronizzare, cercare e inviare messaggi. `open source` `gratis`
+- [wacli](https://go.mymarketing.click/wapi-wacli-2) - Riga di comando in Go che si connette come dispositivo di WhatsApp Web, salva la cronologia in un SQLite locale con ricerca e invia messaggi, media e gruppi, per terminale, script e agenti IA. `open source` `gratis`
 
 ## Server REST pronti all'uso
 

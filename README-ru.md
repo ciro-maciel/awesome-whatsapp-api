@@ -60,7 +60,7 @@
 - [whatsmeow](https://go.mymarketing.click/wapi-whatsmeow) - Библиотека на Go для многоустройственного API WhatsApp Web. `открытый код` `бесплатно`
 - [WPPConnect](https://go.mymarketing.click/wapi-wppconnect) - Автоматизация WhatsApp Web на Node.js и TypeScript от бразильской команды. `открытый код` `бесплатно`
 - [Venom](https://go.mymarketing.click/wapi-venom) - Система на JavaScript для создания ботов в WhatsApp Web. `открытый код` `бесплатно`
-- [wacli](https://go.mymarketing.click/wapi-wacli) - Командная строка для синхронизации, поиска и отправки сообщений. `открытый код` `бесплатно`
+- [wacli](https://go.mymarketing.click/wapi-wacli-2) - Инструмент командной строки на Go, который подключается как устройство WhatsApp Web, хранит историю в локальной SQLite с поиском и отправляет сообщения, медиа и группы из терминала, скриптов и ИИ-агентов. `открытый код` `бесплатно`
 
 ## Готовые REST-серверы
 

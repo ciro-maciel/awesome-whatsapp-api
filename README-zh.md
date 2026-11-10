@@ -60,7 +60,7 @@ Meta 的合作伙伴，转售并运营该 API。按字母顺序排列。
 - [whatsmeow](https://go.mymarketing.click/wapi-whatsmeow) - 用于 WhatsApp Web 多设备 API 的 Go 库。 `开源` `免费`
 - [WPPConnect](https://go.mymarketing.click/wapi-wppconnect) - 由一支巴西团队开发的 Node.js 和 TypeScript WhatsApp Web 自动化工具。 `开源` `免费`
 - [Venom](https://go.mymarketing.click/wapi-venom) - 用 JavaScript 编写、用于创建 WhatsApp Web 机器人的系统。 `开源` `免费`
-- [wacli](https://go.mymarketing.click/wapi-wacli) - 用于同步、搜索和发送消息的命令行工具。 `开源` `免费`
+- [wacli](https://go.mymarketing.click/wapi-wacli-2) - 一个用 Go 编写的命令行工具，以 WhatsApp Web 设备的身份连接，将聊天记录保存在本地 SQLite 中并支持搜索，可发送消息、媒体和群组内容，适用于终端、脚本和 AI 代理。 `开源` `免费`
 
 ## 开箱即用的 REST 服务器
 

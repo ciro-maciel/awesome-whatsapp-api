@@ -60,7 +60,7 @@ WhatsApp Web처럼 연결합니다. Meta는 기업의 이런 사용을 허용하
 - [whatsmeow](https://go.mymarketing.click/wapi-whatsmeow) - WhatsApp Web 멀티 디바이스 API용 Go 라이브러리. `오픈 소스` `무료`
 - [WPPConnect](https://go.mymarketing.click/wapi-wppconnect) - 브라질 팀이 만든 Node.js 및 TypeScript용 WhatsApp Web 자동화. `오픈 소스` `무료`
 - [Venom](https://go.mymarketing.click/wapi-venom) - WhatsApp Web 봇을 만드는 JavaScript 시스템. `오픈 소스` `무료`
-- [wacli](https://go.mymarketing.click/wapi-wacli) - 메시지 동기화, 검색, 전송을 위한 명령줄 도구. `오픈 소스` `무료`
+- [wacli](https://go.mymarketing.click/wapi-wacli-2) - WhatsApp Web 기기처럼 연결되는 Go 명령줄 도구입니다. 대화 기록을 로컬 SQLite에 저장하고 검색할 수 있으며, 메시지, 미디어, 그룹을 보낼 수 있습니다. 터미널, 스크립트, AI 에이전트에서 사용할 수 있습니다. `오픈 소스` `무료`
 
 ## 바로 쓰는 REST 서버
 

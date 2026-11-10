@@ -239,9 +239,9 @@
         },
         {
           "name": "wacli",
-          "url": "https://github.com/openclaw/wacli",
-          "link": "https://go.mymarketing.click/wapi-wacli",
-          "description": "メッセージの同期、検索、送信を行うコマンドラインツール。",
+          "url": "https://wacli.sh/",
+          "link": "https://go.mymarketing.click/wapi-wacli-2",
+          "description": "WhatsApp Web のデバイスとして接続する Go 製のコマンドラインツールです。ローカルの SQLite にチャット履歴を保存して検索でき、メッセージ、メディア、グループの送信に対応しています。ターミナル、スクリプト、AI エージェントから利用できます。",
           "tags": [
             "codigo-aberto",
             "gratis"

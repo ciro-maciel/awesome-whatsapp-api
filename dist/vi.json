@@ -239,9 +239,9 @@
         },
         {
           "name": "wacli",
-          "url": "https://github.com/openclaw/wacli",
-          "link": "https://go.mymarketing.click/wapi-wacli",
-          "description": "Công cụ dòng lệnh để đồng bộ, tìm kiếm và gửi tin nhắn.",
+          "url": "https://wacli.sh/",
+          "link": "https://go.mymarketing.click/wapi-wacli-2",
+          "description": "Công cụ dòng lệnh viết bằng Go, kết nối như một thiết bị WhatsApp Web, lưu lịch sử trò chuyện trong SQLite cục bộ có tìm kiếm, và gửi tin nhắn, phương tiện, nhóm, dùng cho terminal, script và tác nhân AI.",
           "tags": [
             "codigo-aberto",
             "gratis"
