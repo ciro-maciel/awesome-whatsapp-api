@@ -232,6 +232,16 @@
             "title": "Servidores REST prontos",
             "description": "Sobem uma API HTTP em volta das bibliotecas acima. Valem as mesmas restrições.",
             "items": [
+{
+                        "name": "API-Supp",
+                        "url": "https://api-supp.com",
+                        "description": "API REST e MCP com OAuth para o seu número de WhatsApp existente, conectado por QR por uma ponte não oficial (não é a Cloud API da Meta). Pago: US$ 7,50 por número/mês.",
+                        "tags": [
+                                                    "api",
+                                                    "pago"
+                        ],
+                        "added": "2026-11-13"
+},
                 {
                     "name": "Evolution API",
                     "url": "https://github.com/evolution-foundation/evolution-api",
