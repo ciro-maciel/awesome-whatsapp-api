@@ -261,6 +261,16 @@
                         "gratis"
                     ],
                     "added": "2026-11-10"
+                },
+                {
+                    "name": "Wasaas",
+                    "url": "https://wasaas.org/",
+                    "description": "API de WhatsApp não oficial e hospedada, com sessões via WhatsApp Web, webhooks e SDKs para Node.js e Laravel.",
+                    "tags": [
+                        "api",
+                        "pago"
+                    ],
+                    "added": "2026-11-26"
                 }
             ]
         },
